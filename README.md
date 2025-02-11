@@ -49,7 +49,7 @@
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
 ⭐️ From [JoeyBling](https://github.com/JoeyBling)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **HB-2048/HB-2048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
