@@ -1,58 +1,17 @@
-## Hello GitHub Fans 👋
-[![博客搭建交流群](https://img.shields.io/badge/博客搭建QQ群-422625065-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
-[![webkettle交流群](https://img.shields.io/badge/webkettle交流群-487063343-red.svg "webkettle交流群")](https://jq.qq.com/?_wv=1027&k=55kiWBY "webkettle交流群")
-[![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:joeysiwei@gmail.com)
----
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+### Hi there 👋
+<div align="center">
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div>
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&width=520&lines=print(%22Hello%2C%20World%22);原来浮生万物里,所有的重逢都不如相遇!&center=true&size=27" />
+    </a>
+  </div>
+</div>
 
-### I'm Siwei Zhou
+  ---
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
-- ⚡ Fun fact: Data Analysis📊
-
-### 🛠 技术栈 | Tech Stack
-
-- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-![聚合支付](https://img.shields.io/badge/-聚合支付-333333?style=flat&logo=payoneer&logoColor=FF4800)
-- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
-- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
-- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-
-### 开源项目
-- [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
-- [一个简洁优雅的hexo主题](https://github.com/JoeyBling/hexo-theme-yilia-plus)
-- [hexo-theme-yilia-plus配置Demo](https://github.com/JoeyBling/yilia-plus-demo)
-- [自动为hexo中的图片映射绝对路径](https://github.com/JoeyBling/hexo-filter-image)
-- [✏️✏️Java软件工程师简历](https://github.com/JoeyBling/cv)
-- [一款简洁优雅的VuePress主题](https://github.com/JoeyBling/vuepress-theme-yilia-plus)
-- [VuePress集成Live2D看板娘](https://github.com/JoeyBling/vuepress-plugin-helper-live2d)
-- [VuePress集成Gitalk](https://github.com/JoeyBling/vuepress-plugin-mygitalk)
-- [不蒜子访问量统计功能](https://github.com/JoeyBling/busuanzi.pure.js)
-- [在`npm install`后提示用户消息或捐赠](https://github.com/JoeyBling/openteam-postinstall)
-
-### 关于我
-- [技术笔记](https://zhousiwei.gitee.io/ibooks/)
-- [CSDN](https://zhousiwei.blog.csdn.net/)
-- [微博](http://weibo.com/jayinfo)
-
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
-
-⭐️ From [JoeyBling](https://github.com/JoeyBling)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
-**HB-2048/HB-2048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**shihuili1218/shihuili1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -64,3 +23,170 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://img-blog.csdnimg.cn/2019122617442217.gif">
+  <img align="right"  alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
+</a>
+
+### Hello World!  I am <b>Xenon<a target="_blank" href="javascript:;"></a></b>
+
+
+- :hearts: Passionate about open source software. 
+- :1st_place_medal: My projects are trusted by developers.
+- :sun_with_face: Highlights of my successful endeavors.
+
+<a href="https://autofelix.blog.csdn.net">
+    <img src="https://img.shields.io/badge/CSDN Page View-125K-E65A65.svg" alt="" title="Python_AI的csdn" />
+</a>
+<a href="https://wakatime.com/@7cf3d334-b735-41ee-9f43-1782380b513b"><img src="https://wakatime.com/badge/user/7cf3d334-b735-41ee-9f43-1782380b513b.svg" alt="Total time coded since Jan 4 2021" /></a>
+<br/>
+<br/>
+<br/>
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)th visitor
+
+
+---
+
+<!-- 贪吃蛇 -->
+![](https://raw.githubusercontent.com/yxn4065/yxn4065/refs/heads/output/github-contribution-grid-snake.svg)
+
+
+### Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,pytorch,git,raspberrypi,docker,vim,pycharm,mysql" />
+  </a>
+</p>
+
+<!-- https://github.com/badges/shields -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=yxn4065&abbreviated=true&color=yellow" />
+<a href="https://github.com/yxn4065"><img src="https://img.shields.io/badge/GitHub-yxn4065-blue?logo=github" /></a>
+<a href="https://yxn4065.blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-Xenon_AI-red" /></a>
+<img src="https://img.shields.io/badge/QQ-2038865970-green?logo=tencentqq" />
+<img href="mailto:xenon4065@gmail.com" src="https://img.shields.io/badge/xenon4065@gmail.com-D14836?logo=gmail&logoColor=white" />
+</p>
+
+
+---
+
+### About My Github
+<div align="center">
+  <table style="width:100%;">
+    <tr>
+      <!-- 第一个图片 -->
+      <td align="center">
+        <img height='200' src="https://github-readme-stats.vercel.app/api?username=yxn4065&show_icons=true" />
+      </td>
+      <!-- 第二个图片 -->
+      <td align="center">
+        <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxn4065&layout=compact" />
+      </td>
+    </tr>
+    <!-- 第三个图片 -->
+    <tr>
+      <td colspan="2" align="center">
+        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=yxn4065&theme=github-compact&hide_border=true&area=true" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📊 WakaTime
+<!-- [![wakatime](https://wakatime.com/badge/user/7cf3d334-b735-41ee-9f43-1782380b513b.svg)](https://wakatime.com/@7cf3d334-b735-41ee-9f43-1782380b513b) -->
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yxn4065&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C796%20hrs%2026%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 70.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+🌆 Daytime                8 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+🌃 Evening                22 commits          ███████████░░░░░░░░░░░░░░   45.83 % 
+🌙 Night                  13 commits          ███████░░░░░░░░░░░░░░░░░░   27.08 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Tuesday                  10 commits          █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Wednesday                18 commits          █████████░░░░░░░░░░░░░░░░   37.50 % 
+Thursday                 6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 9 commits           █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Sunday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   31 hrs 37 mins      ████████████████░░░░░░░░░   64.02 % 
+Other                    17 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   34.55 % 
+Text                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+CSV                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Log                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+
+🔥 Editors: 
+PyCharm                  32 hrs 20 mins      ████████████████░░░░░░░░░   65.45 % 
+Chrome                   17 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   34.55 % 
+
+🐱‍💻 Projects: 
+PythonCode5              49 hrs 20 mins      █████████████████████████   99.87 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+
+💻 Operating System: 
+Windows                  49 hrs 24 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   8 repos             ███████████████░░░░░░░░░░   61.54 % 
+C++                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+```
+
+
+
+
+ Last Updated on 10/02/2025 18:40:04 UTC
+<!--END_SECTION:waka-->
+
+<!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=yxn4065) -->
+
+---
+
+### Future
+在那悠远时光的尽头，夕阳如织，洒下最后一抹温柔的金辉，将天际染成一幅淡雅的水墨画🖼️。万物似乎都沉浸在这一刻的宁静之中，微风轻拂，带着淡淡的凉意与不舍🍃，仿佛在诉说着白日未尽的故事📖。星辰悄然探出头角✨，于夜的帷幕下缓缓铺陈开来，每一颗都在以自己独有的光芒，编织着宇宙的梦幻篇章🌌。此刻，时间仿佛凝固⏳，让人心生无限遐想，关于远方🏞️，关于梦想💫，关于那些平凡日子里不平凡的美好🌈。而我们，就在这浩瀚宇宙的一隅🌌，静静感受着这一切，心中充满了感激🙏与期待💖，继续前行🚶‍♂️🚶‍♀️，在每一个黎明🌅与黄昏🌆之间，追寻生命最绚烂的诗行📜。
+
+
+<!-- https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img width:100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
+</p>
